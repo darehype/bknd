@@ -10,7 +10,9 @@
     "format": "bunx biome format --write ./app",
     "lint": "bunx biome lint --changed ./app"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@clack/prompts": "^0.11.0"
+  },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@tsconfig/strictest": "^2.0.5",
