@@ -13,7 +13,7 @@
   "dependencies": {
     "@clack/prompts": "^0.11.0"
   },
-  ""devDependencies": {
+  "devDependencies": {
     "@clack/prompts": "^0.7.0",
     "@cloudflare/vitest-pool-workers": "^0.8.38",
     "@cloudflare/workers-types": "^4.20250606.0",
